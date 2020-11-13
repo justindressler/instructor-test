@@ -1,0 +1,30 @@
+{
+  "name": "instructor-test",
+  "version": "1.0.0",
+  "description": "This is a test project for instructor position",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justindressler/instructor-test.git"
+  },
+  "keywords": [
+    "test",
+    "instructor",
+    "react",
+    "node",
+    "bootstrap",
+    "express",
+    "mocha",
+    "mongodb",
+    "mysql"
+  ],
+  "author": "Justin Dressler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justindressler/instructor-test/issues"
+  },
+  "homepage": "https://github.com/justindressler/instructor-test#readme"
+}
